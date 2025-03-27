@@ -1,5 +1,5 @@
 import numpy as np
-import Leakage_Calculation_module as LCm
+import tight_bound_leakage as LCm
 import random
 ###############
 def h(x):
