@@ -4,7 +4,7 @@
 
 Calculation of the Gaussian Modulated Coherent State  (CV)-QKD protocols 
 
--by setting the reconciliation efficinecy equal to $0$ and use the script in [tight_bound_leakage](https://github.com/eqclabs/tight_bound_leakage.git) 
+-by setting the reconciliation efficinecy equal to $0$ and use the script in [tight_bound_leakage](https://github.com/eqclabs/tight_bound_leakage.git) , one can use a tight estimation of the leakage in non-binary LDPC Error Correction. 
 
 
 ## License
